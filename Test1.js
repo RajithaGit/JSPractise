@@ -4,8 +4,8 @@ function helloWorld(str1, str2){
 
 console.log(helloWorld('Jack', 'Ryan'));
 
-const stringToBoolean = !!"";
-console.log(`!!"" is ${stringToBoolean}`);
+const stringToBoolean = !!" ";
+console.log(`!!" " is ${stringToBoolean}`);
 
 const  stringToBoolean3 = Boolean("hello world");
 console.log(stringToBoolean3);
